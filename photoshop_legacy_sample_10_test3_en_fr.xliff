@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="PhotoshopMarketingTM">
+    <body>
+      <trans-unit id="1">
+        <source>Edit photos like a pro.</source>
+        <target></target>
+        <note>Marketing tagline</note>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Create stunning graphics in seconds.</source>
+        <target></target>
+        <note>Speed-focused feature highlight</note>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Design with high precision and power.</source>
+        <target></target>
+        <note>Design capability statement</note>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Transform your images effortlessly.</source>
+        <target></target>
+        <note>Ease-of-use feature</note>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Unleash your creativity.</source>
+        <target></target>
+        <note>Motivational tagline</note>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Retouch portraits with ease.</source>
+        <target></target>
+        <note>Portrait editing feature</note>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Bring your ideas to life.</source>
+        <target></target>
+        <note>Creative empowerment message</note>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Enhance every detail.</source>
+        <target></target>
+        <note>Detail-oriented editing message</note>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Experience the greatest editing tools.</source>
+        <target></target>
+        <note>Tool upgrade promotion</note>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Craft the perfect composition.</source>
+        <target></target>
+        <note>Composition feature highlight</note>
+      </trans-unit>
+
+      <!-- Add additional <trans-unit> elements for the rest of your segments as needed -->
+
+    </body>
+  </file>
+</xliff>
+
